@@ -5,6 +5,9 @@ contributor:
     agent_name: Zéréga, Katherine Berry di
     gutenberg_agent_id: '55211'
     url: http://www.gutenberg.org/2009/agents/55211
+covers:
+- cover_type: archival
+  image_path: 69312-h/images/cover.jpg
 creator:
   author:
     agent_name: Sand, George
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/George_Sand
     - https://fr.wikipedia.org/wiki/George_Sand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69312#The-Naiad-A-ghost-story
 gutenberg_issued: '2022-11-07'
 identifiers:
   gutenberg: '69312'
